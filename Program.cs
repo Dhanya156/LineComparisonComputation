@@ -6,7 +6,7 @@ namespace LineComparisonComputation
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome To Line Comparison Computation");
+            Console.WriteLine("Welcome To Line Comparison Computation Program");
         }
     }
 }
